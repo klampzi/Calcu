@@ -1,0 +1,11 @@
+C:\Users\simon\source\repos\DumbCalculator\DumbCalculator\bin\Debug\netcoreapp3.1\DumbCalculator.exe
+C:\Users\simon\source\repos\DumbCalculator\DumbCalculator\bin\Debug\netcoreapp3.1\DumbCalculator.deps.json
+C:\Users\simon\source\repos\DumbCalculator\DumbCalculator\bin\Debug\netcoreapp3.1\DumbCalculator.runtimeconfig.json
+C:\Users\simon\source\repos\DumbCalculator\DumbCalculator\bin\Debug\netcoreapp3.1\DumbCalculator.runtimeconfig.dev.json
+C:\Users\simon\source\repos\DumbCalculator\DumbCalculator\bin\Debug\netcoreapp3.1\DumbCalculator.dll
+C:\Users\simon\source\repos\DumbCalculator\DumbCalculator\bin\Debug\netcoreapp3.1\DumbCalculator.pdb
+C:\Users\simon\source\repos\DumbCalculator\DumbCalculator\obj\Debug\netcoreapp3.1\DumbCalculator.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\DumbCalculator\DumbCalculator\obj\Debug\netcoreapp3.1\DumbCalculator.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\DumbCalculator\DumbCalculator\obj\Debug\netcoreapp3.1\DumbCalculator.AssemblyInfo.cs
+C:\Users\simon\source\repos\DumbCalculator\DumbCalculator\obj\Debug\netcoreapp3.1\DumbCalculator.dll
+C:\Users\simon\source\repos\DumbCalculator\DumbCalculator\obj\Debug\netcoreapp3.1\DumbCalculator.pdb

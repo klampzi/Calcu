@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumbCalculator", "DumbCalculator\DumbCalculator.csproj", "{925C2F6E-D4BA-4CA0-A709-11E81EF91564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{925C2F6E-D4BA-4CA0-A709-11E81EF91564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925C2F6E-D4BA-4CA0-A709-11E81EF91564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925C2F6E-D4BA-4CA0-A709-11E81EF91564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925C2F6E-D4BA-4CA0-A709-11E81EF91564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBC3EAAB-C06B-4162-A5B4-49EB04FCFE1A}
+	EndGlobalSection
+EndGlobal
